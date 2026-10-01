@@ -1,4 +1,4 @@
-const API_BASE = `${import.meta.env.https://gearshare-e-commerce-1.onrender.com/ || ''}/api`;
+const API_BASE = '/api';
 
 export const api = {
   // Stats
